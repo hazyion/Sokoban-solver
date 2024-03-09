@@ -31,7 +31,7 @@ Input format:
 ####
 
 The game state should start at the first line.
-There should be a empty line between two levels.
+There should be an empty line between two levels.
 Make sure there are no unnecessary empty lines at the end of the file.
 Check levels folder for sample levels.
 
